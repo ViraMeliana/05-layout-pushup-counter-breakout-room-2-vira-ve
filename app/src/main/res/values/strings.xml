@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Push Up</string>
+    <string name="txt_welcome">Welcome Back</string>
+    <string name="txt_username">Vira Meliana Agustin</string>
+    <string name="txt_how">How many push up that you want today ?</string>
+    <string name="txt_pushup_desc">X PUSH UP</string>
+    <string name="txt_pushup_count">10</string>
+</resources>
