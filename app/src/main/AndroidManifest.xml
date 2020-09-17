@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
+<<<<<<< HEAD
     package="com.vira.pushupapp">
     <uses-feature
         android:name="android.hardware.sensor.proximity"
         android:required="true" />
+=======
+    package="id.putraprima.mobile2020starterlayout02">
+>>>>>>> 316d49088e7c5a35b5d4041e500d12e1619a7630
 
     <application
         android:allowBackup="true"
@@ -12,8 +16,13 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
+<<<<<<< HEAD
         <activity android:name="com.vira.pushupapp.PushUpActivity"></activity>
         <activity android:name="com.vira.pushupapp.MainActivity">
+=======
+        <activity android:name=".PushUpActivity"></activity>
+        <activity android:name=".MainActivity">
+>>>>>>> 316d49088e7c5a35b5d4041e500d12e1619a7630
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

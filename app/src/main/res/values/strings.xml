@@ -1,8 +1,12 @@
 <resources>
+<<<<<<< HEAD
     <string name="app_name">Push Up</string>
     <string name="txt_welcome">Welcome Back</string>
     <string name="txt_username">Vira Meliana Agustin</string>
     <string name="txt_how">How many push up that you want today ?</string>
     <string name="txt_pushup_desc">X PUSH UP</string>
     <string name="txt_pushup_count">10</string>
+=======
+    <string name="app_name">Mobile2020StarterLayout02</string>
+>>>>>>> 316d49088e7c5a35b5d4041e500d12e1619a7630
 </resources>
